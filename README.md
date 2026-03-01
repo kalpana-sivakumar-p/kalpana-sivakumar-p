@@ -89,7 +89,7 @@ I don't just use AI tools — I build AI-assisted workflows that scale marketing
 
 ## 🤝 Let's Connect
 
-I'm always interested in conversations about product marketing, AI-powered GTM, and enterprise B2B strategy.
+I'm always interested in conversations about product marketing, GTM strategy, sales enablement, competitive positioning, and how AI is reshaping workflows.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kalpana%20Sivakumar-0077B5?style=flat&logo=linkedin)](https://www.linkedin.com/in/kalpana-sivakumar/)
 
