@@ -53,7 +53,7 @@ I don't just use AI tools — I build AI-assisted workflows that scale marketing
 
 **Built from:** Launching a new battery technology product that generated 50+ enterprise demo requests within 30 days
 
-[View Repository →](#)
+[View Repository →](https://github.com/kalpana-sivakumar-p/gtm-strategy-framework)
 
 ---
 
