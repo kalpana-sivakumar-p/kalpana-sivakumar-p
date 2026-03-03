@@ -13,11 +13,11 @@ This GitHub is my working library — frameworks, templates, and research method
 
 | Repository | What it is |
 |---|---|
-| 🗺️ **gtm-strategy-framework** | End-to-end GTM playbook for technical B2B products |
-| 🔍 **competitive-intelligence-toolkit** | AI-assisted competitive research methodology + templates |
-| 💬 **messaging-architecture-guide** | Positioning & messaging framework for enterprise audiences |
-| 🚀 **product-launch-playbook** | Launch checklist, stakeholder map & asset tracker |
-| 📊 **pmm-metrics-dashboard** | KPI framework for measuring PMM impact |
+| **gtm-strategy-framework** | End-to-end GTM playbook for technical B2B products |
+| **competitive-intelligence-toolkit** | AI-assisted competitive research methodology + templates |
+| **messaging-architecture-guide** | Positioning & messaging framework for enterprise audiences |
+| **product-launch-playbook** | Launch checklist, stakeholder map & asset tracker |
+| **pmm-metrics-dashboard** | KPI framework for measuring PMM impact |
 
 ---
 
