@@ -1,9 +1,9 @@
-# Hi, I'm Kalpana 👋
+# Hi, I'm Kalpana
 ### Product Marketing · GTM Strategy · AI-Native · Sales enablement
 
 I build frameworks that turn complex technology into commercial traction. My work sits at the intersection of **product positioning & messaging**, **sales enablement**, and **go-to-market strategy** — with a bias toward AI-powered workflows and data-driven decision making.
 
-Based in London · Open to new opportunities in B2B SaaS, Product & AI
+Based in London · Open to opportunities in B2B SaaS, Product & AI
 
 ---
 
@@ -35,20 +35,20 @@ Market Insight  ──▶  Positioning  ──▶  Narrative  ──▶  GTM Exe
 
 ---
 
-## 🤖 AI Tools in My Workflow
+## AI Tools in My Workflow
 
 I don't just use AI tools — I build AI-assisted workflows that scale marketing output without sacrificing strategic quality.
 
 - **Perplexity + Gemini** → Competitive landscape synthesis & market gap analysis
-- **ChatGPT** → Rapid messaging iteration & copy testing frameworks  
+- **ChatGPT + Claude** → Rapid messaging iteration & copy testing frameworks  
 - **GA4 + Power BI** → Performance analysis & insight generation
 - **Zapier** → Automated reporting workflows across marketing stack
 
 ---
 
-## 📌 Featured Work
+## Featured Work
 
-### 🗺️ GTM Strategy Framework
+### GTM Strategy Framework
 > A modular, repeatable GTM framework built from launching deep-tech products into enterprise markets. Includes ICP definition, messaging hierarchy, channel strategy, and launch sequencing.
 
 **Built from:** Launching a new battery technology product that generated 50+ enterprise demo requests within 30 days
@@ -57,7 +57,16 @@ I don't just use AI tools — I build AI-assisted workflows that scale marketing
 
 ---
 
-### 🔍 Competitive Intelligence Toolkit  
+### Product Launch Playbook
+> An end-to-end framework for planning, executing, and measuring B2B SaaS product launches
+
+**Built from:** Running a product launch from zero — no existing playbook, no prior launch infrastructure, and a technical product that had never been taken to market before
+
+[View Repository →](https://github.com/kalpana-sivakumar-p/product-launch-playbook)
+
+---
+
+### Competitive Intelligence Toolkit  
 > An AI-assisted methodology for building competitive positioning that goes beyond feature comparison — mapping competitor narratives, identifying whitespace, and translating findings into differentiated sales messaging.
 
 **Built from:** Competitive benchmarking work that contributed to a 147% QoQ increase in inbound demand
@@ -66,7 +75,7 @@ I don't just use AI tools — I build AI-assisted workflows that scale marketing
 
 ---
 
-### 💬 Messaging Architecture Guide
+### Messaging Architecture Guide
 > A structured approach to building messaging frameworks for technical products — from value proposition hierarchy to persona-specific narrative adaptation and objection handling maps.
 
 **Built from:** Repositioning a complex technical product for enterprise procurement, operations, and engineering buyers simultaneously
@@ -87,7 +96,7 @@ I don't just use AI tools — I build AI-assisted workflows that scale marketing
 
 ---
 
-## 🤝 Let's Connect
+## Let's Connect
 
 I'm always interested in conversations about product marketing, GTM strategy, sales enablement, competitive positioning, and how AI is reshaping workflows.
 
