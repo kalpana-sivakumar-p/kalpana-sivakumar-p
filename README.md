@@ -71,7 +71,7 @@ I don't just use AI tools — I build AI-assisted workflows that scale marketing
 
 **Built from:** Repositioning a complex technical product for enterprise procurement, operations, and engineering buyers simultaneously
 
-[View Repository →](#)
+[View Repository →](https://github.com/kalpana-sivakumar-p/messaging-architecture-guide)
 
 ---
 
