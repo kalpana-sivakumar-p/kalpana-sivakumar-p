@@ -21,7 +21,7 @@ This GitHub is my working library — frameworks, templates, and research method
 
 ---
 
-## 🛠️ How I Work
+## How I Work
 
 ```
 Market Insight  ──▶  Positioning  ──▶  Narrative  ──▶  GTM Execution  ──▶  Measurement
@@ -84,7 +84,7 @@ I don't just use AI tools — I build AI-assisted workflows that scale marketing
 
 ---
 
-## 📈 By The Numbers
+## By The Numbers
 
 ```
 147%    QoQ increase in inbound demand through repositioned GTM strategy
