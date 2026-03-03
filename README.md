@@ -35,14 +35,15 @@ Market Insight  ──▶  Positioning  ──▶  Narrative  ──▶  GTM Exe
 
 ---
 
-## AI Tools in My Workflow
+## Tools in My Workflow
 
-I don't just use AI tools — I build AI-assisted workflows that scale marketing output without sacrificing strategic quality.
+I build AI-assisted workflows that scale marketing output without sacrificing strategic quality.
 
 - **Perplexity + Gemini** → Competitive landscape synthesis & market gap analysis
 - **ChatGPT + Claude** → Rapid messaging iteration & copy testing frameworks  
 - **GA4 + Power BI** → Performance analysis & insight generation
-- **Zapier** → Automated reporting workflows across marketing stack
+- **Jira, Confluence, Miro, Airtable** → Project management
+- **Zapier** → Automated workflows across marketing stack
 
 ---
 
