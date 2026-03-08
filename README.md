@@ -71,7 +71,7 @@ I build AI-assisted workflows that scale marketing output without sacrificing st
 
 **Built from:** Competitive benchmarking work that contributed to a 147% QoQ increase in inbound demand
 
-[View Repository →](#)
+[View Repository →](https://github.com/kalpana-sivakumar-p/competitive-intelligence-toolkit)
 
 ---
 
