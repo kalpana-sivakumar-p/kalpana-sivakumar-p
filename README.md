@@ -9,7 +9,7 @@ Based in London · Open to opportunities in B2B SaaS, Product & AI
 
 ## What You'll Find Here
 
-This GitHub is my working library — frameworks, templates, and research methodologies I've developed and refined across deep-tech and enterprise B2B environments.
+This GitHub is my working library with frameworks, templates, and research methodologies I've developed and refined across deep-tech and enterprise B2B environments.
 
 | Repository | What it is |
 |---|---|
