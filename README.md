@@ -1,7 +1,7 @@
 # Hi, I'm Kalpana
 ### Product Marketing · GTM Strategy · AI-Native · Sales enablement
 
-I build frameworks that turn complex technology into commercial traction. My work sits at the intersection of **product positioning & messaging**, **sales enablement**, and **go-to-market strategy** — with a bias toward AI-powered workflows and data-driven decision making.
+I build frameworks that turn complex technology into commercial traction. My work sits at the intersection of **product positioning & messaging**, **sales enablement**, and **go-to-market strategy**, with a bias toward AI-powered workflows and data-driven decision making.
 
 Based in London · Open to opportunities in B2B SaaS, Product & AI
 
